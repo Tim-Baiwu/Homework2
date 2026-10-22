@@ -1,0 +1,9 @@
+{
+    "requests_by_method": {
+        "GET": 4,
+        "POST": 1
+    },
+    "errors_4xx": 2,
+    "most_common_url": "/login",
+    "skipped_lines": 0
+}
